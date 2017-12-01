@@ -1,0 +1,51 @@
+Greetings!
+
+Rabbit Bobble is simple style arcade game. It`s written in python3, with heavy usage of
+pygame library. The game was created as a homework for my Python classes at WUT in 2017.
+
+Witam!
+
+Rabbit Bobble to bardzo prosta gra platformowa. Napisana została w python3, przy użyciu biblioteki pygame. Powstała jako praca domowa w ramach kursu Pythona na PW w 2017.
+
+How to start ?
+
+To start game, you need to have installed python3 with pygame library. To start playing type :
+./Rabbit_Bobble.py in console (in folder with all the files).
+
+Jak zacząć?
+
+By grać, musisz mieć zainstalowanego python3 z biblioteką pygame. By uruchomić gre, wpisz w konsoli ./Rabbit_Bobble.py (w folderze zawierającym wszystkie pliki).
+
+How to play?
+
+The point of the game is pretty simple: kill aliens which have attacked your planet! Use 'arrow keys' to move player, and 'space key' to shot bubble. If you collide with blue alien, you lose life. There are two types of platforms: grass- platforms which you can 
+jump through and stone- platform which you are not able to jump through. You have to throw bubble at aliens, trap them in bubble and pierce this bubble to defeat enemy. After that you have to collect cion to gain 100 points. 
+Be careful! Alien can break free from bubble. Another way to achieve highscore is collect carrots. You can get them  for pierce some empty bubbles.
+ 
+At start you can change setting pressing h. You can choose character, number of life and difficulty.
+
+When you want to pause game press P.
+
+Jak grać ?
+
+Cel gry jest dość prosty:zabij obcych, którzy zaatakowali Twoją planetę! Użyj 'klawiszy strzałek', aby poruszać  gracza, i 'klawisza spacji' do wystrzelenia bąbla. Jeżeli zderzysz się z niebieskim obcym, tracisz życie. 
+Występują dwa typy platform: pokryte trawą, które możesz przeskakiwać i kamienne, od których się odbijasz. Aby pokonać przeciwnika, musisz wystrzelić w niego bąbel, uwięzić go w nim, a następnie przebić taki bąbel. 
+Aby zdobyć punkty muszisz jeszcze zebrać monetę, dostaniesz za to 100 punktów. Uważaj! Obcy może się wydostać z pułapki. Innym sposobem na zdobycie punktów jest zebranie marchewek, ktore wypadną z przebitych niektórych bąbli.
+
+Na początku możesz zmienić ustawienia wciskając klawisz h. Możesz zmienić postać, ktorą grasz, liczbę żyć i poziom trudności.
+
+Po przegranej, wyświetli ci się twój wynik. Wciśnięcie spacji ponownie uruchomi grę.
+
+Source of files.
+
+Used .png files   come from www.kenney.nl, where they are distributed under License (Creative Commons Zero, CC0) (http://creativecommons.org/publicdomain/zero/1.0/).
+File Green-Hill.wav comes from (http://opengameart.org/content/star-field) where it is distributed  by Igor Gundarev  under (Creative Commons Zero, CC0) License.
+Other sound effects come from (http://freesound.org) and are distributed under (Creative Commons Zero, CC0) License.
+
+Źródła użytych plików.
+
+Użyte plike z rozszerzeniami: .png  pochodzą ze strony www.kenney.nl, gdzie udostępnione są na zasadzie Licencji (Creative Commons Zero, CC0) (http://creativecommons.org/publicdomain/zero/1.0/).
+Plik Green-Hill.wav pochodzi ze strony (http://opengameart.org/content/star-field), gdzie udostępniony został przez Igor Gundarev na Licencji (Creative Commons Zero, CC0) .
+Inne efekty muzyczne pochodzą ze strony freesound.org i zostało udostępnione na  Licencji (Creative Commons Zero, CC0) .
+
+KasiaWo
