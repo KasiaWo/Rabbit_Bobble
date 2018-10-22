@@ -21,7 +21,7 @@ for more informations.
 To start game, run ./Rabbit_Bobble.py in console. Remember to read instructions first!
 
 ```
-./Spejs_Szuter.py
+./Rabbit_Bobble.py
 ```
 
 ## Authors
